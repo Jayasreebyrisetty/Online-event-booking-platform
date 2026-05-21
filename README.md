@@ -26,3 +26,5 @@ src/
  ├── App.js
  ├── index.js
  └── styles/
+Tech Stack: React JS, HTML, CSS, JavaScript
+Live Demo: https://event-booking-90ingvgf3-byrisetty-jayasreees-projects.vercel.app
